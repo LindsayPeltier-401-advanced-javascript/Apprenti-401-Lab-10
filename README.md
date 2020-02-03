@@ -9,7 +9,6 @@ Includes Labs 7, 8, and 9
 * [submission PR]()
 * [travis]()
 * [back-end]()
-* [mongo-model npm]()
 
 #### Documentation
 * [api docs]()
@@ -43,4 +42,4 @@ Includes Labs 7, 8, and 9
 * Eslint: `npm run lint`
 
 #### UML
-![UML]()
+![UML](./assets/lab10UML.jpg)
