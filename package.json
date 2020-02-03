@@ -1,0 +1,42 @@
+{
+  "name": "Apprenti-401-Lab-10",
+  "version": "1.0.0",
+  "description": "Includes Labs 7, 8, and 9",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ./*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-10/issues"
+  },
+  "homepage": "https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-10#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "jsdoc": "^3.6.3",
+    "mongoose": "^5.8.11",
+    "morgan": "^1.9.1",
+    "supertest": "^4.0.2",
+    "swagger-ui-express": "^4.1.3",
+    "@code-fellows/supergoose": "^1.0.1"
+  },
+  "devDependencies": {}
+}
