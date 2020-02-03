@@ -6,13 +6,13 @@ Includes Labs 7, 8, and 9
 ### Author: Lindsay Peltier
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
-* [back-end]()
+* [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-10/pull/1)
+* [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-10)
+* [back-end](https://apprenti-401-lab-10.herokuapp.com/)
 
 #### Documentation
-* [api docs]()
-* [jsdocs]()
+* [api docs](/Users/lpeltier/DevStation/devstation/401/labs/Apprenti-401-Lab-10/docs/swagger.json)
+* [jsdocs](./docs)
 
 ### Setup
 * npm init -y
